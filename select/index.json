@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "終点の先が在るとするならば。",
+  "base_artist": "ツユ",
+  "createdAt": "2025-12-26T15:06:36.063637Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終点の先が在るとするならば。",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_終点の先が在るとするならば。_ツユ.txt"
+    }
+  ]
+}
